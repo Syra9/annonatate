@@ -1,0 +1,40 @@
+---
+canvas: "https://www.e-manuscripta.ch/i3f/v20/779203/canvas/779205"
+order: 5
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "purpose": "geotagging",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.13413286174182,
+                    46.40571251530319
+                ]
+            },
+            "creator": {
+                "id": "Syra9",
+                "name": "Syra9"
+            },
+            "created": "2023-03-10T08:31:17.785Z"
+        }
+    ],
+    "target": {
+        "source": "https://www.e-manuscripta.ch/i3f/v20/779203/canvas/779205",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=2862.6298828125,2487.494140625,32.727294921875,23.63623046875"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://www.e-manuscripta.ch/i3f/v20/779203/manifest",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "94b4754a-445d-4209-89be-e1b724bd1a43.json",
+    "motivation": "commenting"
+}
