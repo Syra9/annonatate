@@ -20,21 +20,32 @@ order: 5
             },
             "purpose": "geotagging",
             "type": "Feature"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Fiesch",
+            "purpose": "tagging",
+            "creator": {
+                "id": "Syra9",
+                "name": "Syra9"
+            },
+            "created": "2023-03-10T08:48:44.807Z",
+            "modified": "2023-03-10T08:48:45.461Z"
         }
     ],
     "id": "94b4754a-445d-4209-89be-e1b724bd1a43.json",
     "motivation": "commenting",
     "target": {
-        "source": "https://www.e-manuscripta.ch/i3f/v20/779203/canvas/779205",
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=2862.6298828125,2405.927490234375,129.568359375,105.202880859375"
-        },
         "dcterms:isPartOf": {
             "id": "https://www.e-manuscripta.ch/i3f/v20/779203/manifest",
             "type": "Manifest"
-        }
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=2862.6298828125,2405.927490234375,129.568359375,105.202880859375"
+        },
+        "source": "https://www.e-manuscripta.ch/i3f/v20/779203/canvas/779205"
     },
     "type": "Annotation"
 }
