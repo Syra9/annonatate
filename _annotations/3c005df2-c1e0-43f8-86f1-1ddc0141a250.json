@@ -3,38 +3,38 @@ canvas: "https://www.e-manuscripta.ch/i3f/v20/779203/canvas/779205"
 order: 6
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "purpose": "geotagging",
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.144000530592168,
-                    46.39860993424306
-                ]
-            },
+            "created": "2023-03-10T08:31:42.785Z",
             "creator": {
                 "id": "Syra9",
                 "name": "Syra9"
             },
-            "created": "2023-03-10T08:31:42.785Z"
+            "geometry": {
+                "coordinates": [
+                    8.144000530592168,
+                    46.39860993424306
+                ],
+                "type": "Point"
+            },
+            "purpose": "geotagging",
+            "type": "Feature"
         }
     ],
+    "id": "3c005df2-c1e0-43f8-86f1-1ddc0141a250.json",
+    "motivation": "commenting",
     "target": {
         "source": "https://www.e-manuscripta.ch/i3f/v20/779203/canvas/779205",
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=3048.99365234375,2485.67578125,29.0908203125,29.091064453125"
+            "value": "xywh=3048.99365234375,2431.382080078125,194.113525390625,83.384765625"
         },
         "dcterms:isPartOf": {
             "id": "https://www.e-manuscripta.ch/i3f/v20/779203/manifest",
             "type": "Manifest"
         }
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "3c005df2-c1e0-43f8-86f1-1ddc0141a250.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
