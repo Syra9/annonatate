@@ -1,0 +1,374 @@
+
+{
+
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://syra9.github.io/annonatate/annotations/i3f-v20-779203-779205-list",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "body": [
+                {
+                    "created": "2023-03-04T14:46:04.645Z",
+                    "creator": {
+                        "id": "Syra9",
+                        "name": "Syra9"
+                    },
+                    "modified": "2023-03-04T14:46:05.109Z",
+                    "purpose": "commenting",
+                    "type": "TextualBody",
+                    "value": "Lax"
+                },
+                {
+                    "created": "2023-03-04T14:46:46.111Z",
+                    "creator": {
+                        "id": "Syra9",
+                        "name": "Syra9"
+                    },
+                    "geometry": {
+                        "coordinates": [
+                            8.116966724046508,
+                            46.38692812318454
+                        ],
+                        "type": "Point"
+                    },
+                    "purpose": "geotagging",
+                    "type": "Feature"
+                },
+                {
+                    "type": "TextualBody",
+                    "value": "Lax",
+                    "purpose": "tagging",
+                    "creator": {
+                        "id": "Syra9",
+                        "name": "Syra9"
+                    },
+                    "created": "2023-03-10T08:48:53.590Z",
+                    "modified": "2023-03-10T08:48:54.158Z"
+                }
+            ],
+            "id": "0b7ec47c-aded-4a54-92e0-1e355ded41a4.json",
+            "motivation": "commenting",
+            "target": {
+                "dcterms:isPartOf": {
+                    "id": "https://www.e-manuscripta.ch/i3f/v20/779203/manifest",
+                    "type": "Manifest"
+                },
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "xywh=2717.652587890625,2509.56396484375,88.181884765625,73.9033203125"
+                },
+                "source": "https://www.e-manuscripta.ch/i3f/v20/779203/canvas/779205"
+            },
+            "type": "Annotation"
+        },
+        {
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "body": [
+                {
+                    "created": "2023-03-10T08:29:14.841Z",
+                    "creator": {
+                        "id": "Syra9",
+                        "name": "Syra9"
+                    },
+                    "geometry": {
+                        "coordinates": [
+                            8.1026641,
+                            46.3797493
+                        ],
+                        "type": "Point"
+                    },
+                    "purpose": "geotagging",
+                    "source": "https://www.openstreetmap.org/node/2446966408",
+                    "type": "Feature"
+                },
+                {
+                    "type": "TextualBody",
+                    "value": "Deisch",
+                    "purpose": "tagging",
+                    "creator": {
+                        "id": "Syra9",
+                        "name": "Syra9"
+                    },
+                    "created": "2023-03-10T08:48:57.773Z",
+                    "modified": "2023-03-10T08:48:58.300Z"
+                }
+            ],
+            "id": "1be30fd9-f9df-4cd8-88a7-e840adebcc45.json",
+            "motivation": "commenting",
+            "target": {
+                "dcterms:isPartOf": {
+                    "id": "https://www.e-manuscripta.ch/i3f/v20/779203/manifest",
+                    "type": "Manifest"
+                },
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "xywh=2616.74365234375,2583.2001953125,90.908935546875,55.45458984375"
+                },
+                "source": "https://www.e-manuscripta.ch/i3f/v20/779203/canvas/779205"
+            },
+            "type": "Annotation"
+        },
+        {
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "body": [
+                {
+                    "created": "2023-03-10T08:29:37.581Z",
+                    "creator": {
+                        "id": "Syra9",
+                        "name": "Syra9"
+                    },
+                    "geometry": {
+                        "coordinates": [
+                            8.069257,
+                            46.3764287
+                        ],
+                        "type": "Point"
+                    },
+                    "purpose": "geotagging",
+                    "source": "https://www.openstreetmap.org/node/301448425",
+                    "type": "Feature"
+                },
+                {
+                    "type": "TextualBody",
+                    "value": "Betten",
+                    "purpose": "tagging",
+                    "creator": {
+                        "id": "Syra9",
+                        "name": "Syra9"
+                    },
+                    "created": "2023-03-10T08:49:02.693Z",
+                    "modified": "2023-03-10T08:49:03.346Z"
+                }
+            ],
+            "id": "b1fd611a-7992-416e-8e8d-10c9ebe042dc.json",
+            "motivation": "commenting",
+            "target": {
+                "dcterms:isPartOf": {
+                    "id": "https://www.e-manuscripta.ch/i3f/v20/779203/manifest",
+                    "type": "Manifest"
+                },
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "xywh=2488.99365234375,2616.836669921875,116.8408203125,89.748291015625"
+                },
+                "source": "https://www.e-manuscripta.ch/i3f/v20/779203/canvas/779205"
+            },
+            "type": "Annotation"
+        },
+        {
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "body": [
+                {
+                    "created": "2023-03-10T08:30:29.346Z",
+                    "creator": {
+                        "id": "Syra9",
+                        "name": "Syra9"
+                    },
+                    "geometry": {
+                        "geometries": [
+                            {
+                                "coordinates": [
+                                    8.13624,
+                                    46.346856
+                                ],
+                                "type": "Point"
+                            },
+                            {
+                                "coordinates": [
+                                    8.091667,
+                                    46.375188
+                                ],
+                                "type": "Point"
+                            }
+                        ],
+                        "type": "GeometryCollection"
+                    },
+                    "purpose": "geotagging",
+                    "type": "Feature"
+                },
+                {
+                    "type": "TextualBody",
+                    "purpose": "tagging",
+                    "value": "Grengiols",
+                    "creator": {
+                        "id": "Syra9",
+                        "name": "Syra9"
+                    },
+                    "created": "2023-03-10T08:49:08.675Z"
+                }
+            ],
+            "id": "77100d62-39d3-40a4-8cf3-102b06c5c9b0.json",
+            "motivation": "commenting",
+            "target": {
+                "dcterms:isPartOf": {
+                    "id": "https://www.e-manuscripta.ch/i3f/v20/779203/manifest",
+                    "type": "Manifest"
+                },
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "xywh=2564.925537109375,2722.291015625,155.454345703125,113.636474609375"
+                },
+                "source": "https://www.e-manuscripta.ch/i3f/v20/779203/canvas/779205"
+            },
+            "type": "Annotation"
+        },
+        {
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "body": [
+                {
+                    "created": "2023-03-10T08:31:17.785Z",
+                    "creator": {
+                        "id": "Syra9",
+                        "name": "Syra9"
+                    },
+                    "geometry": {
+                        "coordinates": [
+                            8.13413286174182,
+                            46.40571251530319
+                        ],
+                        "type": "Point"
+                    },
+                    "purpose": "geotagging",
+                    "type": "Feature"
+                },
+                {
+                    "type": "TextualBody",
+                    "value": "Fiesch",
+                    "purpose": "tagging",
+                    "creator": {
+                        "id": "Syra9",
+                        "name": "Syra9"
+                    },
+                    "created": "2023-03-10T08:48:44.807Z",
+                    "modified": "2023-03-10T08:48:45.461Z"
+                }
+            ],
+            "id": "94b4754a-445d-4209-89be-e1b724bd1a43.json",
+            "motivation": "commenting",
+            "target": {
+                "dcterms:isPartOf": {
+                    "id": "https://www.e-manuscripta.ch/i3f/v20/779203/manifest",
+                    "type": "Manifest"
+                },
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "xywh=2862.6298828125,2405.927490234375,129.568359375,105.202880859375"
+                },
+                "source": "https://www.e-manuscripta.ch/i3f/v20/779203/canvas/779205"
+            },
+            "type": "Annotation"
+        },
+        {
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "body": [
+                {
+                    "created": "2023-03-10T08:31:42.785Z",
+                    "creator": {
+                        "id": "Syra9",
+                        "name": "Syra9"
+                    },
+                    "geometry": {
+                        "coordinates": [
+                            8.144000530592168,
+                            46.39860993424306
+                        ],
+                        "type": "Point"
+                    },
+                    "purpose": "geotagging",
+                    "type": "Feature"
+                },
+                {
+                    "type": "TextualBody",
+                    "value": "Ernen",
+                    "purpose": "tagging",
+                    "creator": {
+                        "id": "Syra9",
+                        "name": "Syra9"
+                    },
+                    "created": "2023-03-10T08:48:39.223Z",
+                    "modified": "2023-03-10T08:48:39.657Z"
+                }
+            ],
+            "id": "3c005df2-c1e0-43f8-86f1-1ddc0141a250.json",
+            "motivation": "commenting",
+            "target": {
+                "dcterms:isPartOf": {
+                    "id": "https://www.e-manuscripta.ch/i3f/v20/779203/manifest",
+                    "type": "Manifest"
+                },
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "xywh=3048.99365234375,2431.382080078125,194.113525390625,83.384765625"
+                },
+                "source": "https://www.e-manuscripta.ch/i3f/v20/779203/canvas/779205"
+            },
+            "type": "Annotation"
+        },
+        {
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "body": [
+                {
+                    "created": "2023-03-10T08:33:14.216Z",
+                    "creator": {
+                        "id": "Syra9",
+                        "name": "Syra9"
+                    },
+                    "geometry": {
+                        "coordinates": [
+                            9.731270312913695,
+                            54.11449673918656
+                        ],
+                        "type": "Point"
+                    },
+                    "purpose": "geotagging",
+                    "type": "Feature"
+                },
+                {
+                    "type": "TextualBody",
+                    "value": "Mörel",
+                    "purpose": "tagging",
+                    "creator": {
+                        "id": "Syra9",
+                        "name": "Syra9"
+                    },
+                    "created": "2023-03-10T08:49:13.028Z",
+                    "modified": "2023-03-10T08:49:13.739Z"
+                },
+                {
+                    "type": "TextualBody",
+                    "value": "heute Ried-Mörel",
+                    "purpose": "commenting",
+                    "creator": {
+                        "id": "Syra9",
+                        "name": "Syra9"
+                    },
+                    "created": "2023-03-10T08:49:16.061Z",
+                    "modified": "2023-03-10T08:49:18.575Z"
+                }
+            ],
+            "id": "4a4ad6ce-4a93-4e54-bded-19b28c98204b.json",
+            "motivation": "commenting",
+            "target": {
+                "dcterms:isPartOf": {
+                    "id": "https://www.e-manuscripta.ch/i3f/v20/779203/manifest",
+                    "type": "Manifest"
+                },
+                "selector": {
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "type": "FragmentSelector",
+                    "value": "xywh=2293.107177734375,2822.291259765625,126.363525390625,89.0908203125"
+                },
+                "source": "https://www.e-manuscripta.ch/i3f/v20/779203/canvas/779205"
+            },
+            "type": "Annotation"
+        }
+    ]
+
+}
