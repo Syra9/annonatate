@@ -20,21 +20,43 @@ order: 7
             },
             "purpose": "geotagging",
             "type": "Feature"
+        },
+        {
+            "type": "TextualBody",
+            "value": "M\u00f6rel",
+            "purpose": "tagging",
+            "creator": {
+                "id": "Syra9",
+                "name": "Syra9"
+            },
+            "created": "2023-03-10T08:49:13.028Z",
+            "modified": "2023-03-10T08:49:13.739Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "heute Ried-M\u00f6rel",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Syra9",
+                "name": "Syra9"
+            },
+            "created": "2023-03-10T08:49:16.061Z",
+            "modified": "2023-03-10T08:49:18.575Z"
         }
     ],
     "id": "4a4ad6ce-4a93-4e54-bded-19b28c98204b.json",
     "motivation": "commenting",
     "target": {
-        "source": "https://www.e-manuscripta.ch/i3f/v20/779203/canvas/779205",
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=2293.107177734375,2822.291259765625,126.363525390625,89.0908203125"
-        },
         "dcterms:isPartOf": {
             "id": "https://www.e-manuscripta.ch/i3f/v20/779203/manifest",
             "type": "Manifest"
-        }
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=2293.107177734375,2822.291259765625,126.363525390625,89.0908203125"
+        },
+        "source": "https://www.e-manuscripta.ch/i3f/v20/779203/canvas/779205"
     },
     "type": "Annotation"
 }
