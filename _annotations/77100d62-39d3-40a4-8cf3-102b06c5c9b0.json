@@ -3,50 +3,50 @@ canvas: "https://www.e-manuscripta.ch/i3f/v20/779203/canvas/779205"
 order: 4
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "purpose": "geotagging",
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            8.13624,
-                            46.346856
-                        ]
-                    },
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            8.091667,
-                            46.375188
-                        ]
-                    }
-                ]
-            },
+            "created": "2023-03-10T08:30:29.346Z",
             "creator": {
                 "id": "Syra9",
                 "name": "Syra9"
             },
-            "created": "2023-03-10T08:30:29.346Z"
+            "geometry": {
+                "geometries": [
+                    {
+                        "coordinates": [
+                            8.13624,
+                            46.346856
+                        ],
+                        "type": "Point"
+                    },
+                    {
+                        "coordinates": [
+                            8.091667,
+                            46.375188
+                        ],
+                        "type": "Point"
+                    }
+                ],
+                "type": "GeometryCollection"
+            },
+            "purpose": "geotagging",
+            "type": "Feature"
         }
     ],
+    "id": "77100d62-39d3-40a4-8cf3-102b06c5c9b0.json",
+    "motivation": "commenting",
     "target": {
         "source": "https://www.e-manuscripta.ch/i3f/v20/779203/canvas/779205",
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=2631.720947265625,2726.5849609375,25.45458984375,23.636474609375"
+            "value": "xywh=2564.925537109375,2722.291015625,155.454345703125,113.636474609375"
         },
         "dcterms:isPartOf": {
             "id": "https://www.e-manuscripta.ch/i3f/v20/779203/manifest",
             "type": "Manifest"
         }
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "77100d62-39d3-40a4-8cf3-102b06c5c9b0.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
