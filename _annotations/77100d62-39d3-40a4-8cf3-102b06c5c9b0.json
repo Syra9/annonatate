@@ -32,21 +32,31 @@ order: 4
             },
             "purpose": "geotagging",
             "type": "Feature"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "Grengiols",
+            "creator": {
+                "id": "Syra9",
+                "name": "Syra9"
+            },
+            "created": "2023-03-10T08:49:08.675Z"
         }
     ],
     "id": "77100d62-39d3-40a4-8cf3-102b06c5c9b0.json",
     "motivation": "commenting",
     "target": {
-        "source": "https://www.e-manuscripta.ch/i3f/v20/779203/canvas/779205",
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=2564.925537109375,2722.291015625,155.454345703125,113.636474609375"
-        },
         "dcterms:isPartOf": {
             "id": "https://www.e-manuscripta.ch/i3f/v20/779203/manifest",
             "type": "Manifest"
-        }
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=2564.925537109375,2722.291015625,155.454345703125,113.636474609375"
+        },
+        "source": "https://www.e-manuscripta.ch/i3f/v20/779203/canvas/779205"
     },
     "type": "Annotation"
 }
