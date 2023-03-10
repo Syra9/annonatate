@@ -30,7 +30,7 @@ order: 2
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=2616.74365234375,2600.472900390625,79.0908203125,52.727294921875"
+            "value": "xywh=2616.74365234375,2583.2001953125,90.908935546875,55.45458984375"
         },
         "dcterms:isPartOf": {
             "id": "https://www.e-manuscripta.ch/i3f/v20/779203/manifest",
