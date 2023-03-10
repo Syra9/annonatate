@@ -21,21 +21,32 @@ order: 3
             "purpose": "geotagging",
             "source": "https://www.openstreetmap.org/node/301448425",
             "type": "Feature"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Betten",
+            "purpose": "tagging",
+            "creator": {
+                "id": "Syra9",
+                "name": "Syra9"
+            },
+            "created": "2023-03-10T08:49:02.693Z",
+            "modified": "2023-03-10T08:49:03.346Z"
         }
     ],
     "id": "b1fd611a-7992-416e-8e8d-10c9ebe042dc.json",
     "motivation": "commenting",
     "target": {
-        "source": "https://www.e-manuscripta.ch/i3f/v20/779203/canvas/779205",
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=2488.99365234375,2616.836669921875,116.8408203125,89.748291015625"
-        },
         "dcterms:isPartOf": {
             "id": "https://www.e-manuscripta.ch/i3f/v20/779203/manifest",
             "type": "Manifest"
-        }
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=2488.99365234375,2616.836669921875,116.8408203125,89.748291015625"
+        },
+        "source": "https://www.e-manuscripta.ch/i3f/v20/779203/canvas/779205"
     },
     "type": "Annotation"
 }
