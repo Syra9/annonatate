@@ -1,0 +1,14 @@
+---
+---
+{
+    "label": "Karte von Wallis und Bern",
+    "type": "storyboardlist",
+    "items": [
+        {
+            "board": "<iiif-storyboard annotationurl='https://syra9.github.io/annonatate/annotations/1be30fd9-f9df-4cd8-88a7-e840adebcc45.json'></iiif-storyboard>",
+            "title": "Ortschaften",
+            "description": "",
+            "thumbnail": ""
+        }
+    ]
+}
