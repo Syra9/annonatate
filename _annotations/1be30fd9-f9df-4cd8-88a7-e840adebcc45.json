@@ -21,21 +21,32 @@ order: 2
             "purpose": "geotagging",
             "source": "https://www.openstreetmap.org/node/2446966408",
             "type": "Feature"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Deisch",
+            "purpose": "tagging",
+            "creator": {
+                "id": "Syra9",
+                "name": "Syra9"
+            },
+            "created": "2023-03-10T08:48:57.773Z",
+            "modified": "2023-03-10T08:48:58.300Z"
         }
     ],
     "id": "1be30fd9-f9df-4cd8-88a7-e840adebcc45.json",
     "motivation": "commenting",
     "target": {
-        "source": "https://www.e-manuscripta.ch/i3f/v20/779203/canvas/779205",
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=2616.74365234375,2583.2001953125,90.908935546875,55.45458984375"
-        },
         "dcterms:isPartOf": {
             "id": "https://www.e-manuscripta.ch/i3f/v20/779203/manifest",
             "type": "Manifest"
-        }
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=2616.74365234375,2583.2001953125,90.908935546875,55.45458984375"
+        },
+        "source": "https://www.e-manuscripta.ch/i3f/v20/779203/canvas/779205"
     },
     "type": "Annotation"
 }
